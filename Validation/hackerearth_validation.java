@@ -28,10 +28,10 @@ public class hackerearth_validation {
 
         WebElement email= driver.findElement(By.name("username"));
 
-        email.sendKeys("3456gaurav@gmail.com");
+        email.sendKeys("");
         System.out.println("2");
         WebElement password= driver.findElement(By.name("password"));
-        password.sendKeys("QV1aID@1");
+        password.sendKeys("");
 
         System.out.println("3");
         WebElement log= driver.findElement(By.cssSelector("#__next > div.modalOverlay > div > div.auth-container > div.form > form > div.buttonContainer > button"));
