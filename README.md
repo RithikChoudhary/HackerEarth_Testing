@@ -1,4 +1,5 @@
 # HackerEarth Testing
 ## Website Automation Testing using Selenium and TestNG
-![image](https://user-images.githubusercontent.com/46700921/113923197-e0e08100-9805-11eb-86ef-68c0908b4f06.png)
+![image](https://user-images.githubusercontent.com/46700921/113923262-fa81c880-9805-11eb-9216-6f7072a0fffd.png)
+
 
