@@ -1,5 +1,3 @@
-package selenium.ReportSelenium;
-
 import org.testng.annotations.DataProvider;
 
 public class data_provider {
