@@ -20,9 +20,9 @@ public class firefoxdriver_login_hackerearth {
        WebElement login = driver.findElement(By.cssSelector("#__next > div > div > div.header > div > div.buttons > div:nth-child(1)"));
         login.click();
         WebElement email= driver.findElement(By.name("username"));
-        email.sendKeys("500068360@stu.upes.ac.in");
+        email.sendKeys("......");
         WebElement password= driver.findElement(By.name("password"));
-        password.sendKeys("QV1aID@1");
+        password.sendKeys("........");
         WebElement log= driver.findElement(By.className("submitButton"));
         log.click();
         System.out.println("login Successful");
