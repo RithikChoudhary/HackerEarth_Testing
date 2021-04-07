@@ -36,14 +36,14 @@ public class hackerearth_validation {
     public void Provide_username() {
         WebElement email= driver.findElement(By.name("username"));
 
-        email.sendKeys("********");
+        email.sendKeys("******");
         System.out.println("username done");
     }
 
     @Test(priority=2)
     public void Provide_password() {
         WebElement password= driver.findElement(By.name("password"));
-        password.sendKeys("****");
+        password.sendKeys("*****");
 
         System.out.println("password done");
 
