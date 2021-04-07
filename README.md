@@ -2,21 +2,21 @@
 
 ## We have tested [HackerEath](https://www.hackerearth.com/) in 4 modules:
 
-1) Login And SignIn
+* 1) Login And SignIn
 + Using Excel Sheet
 + Login using different browsers namely: Chrome, Microsoft Edge and Firefox
 + Using Data provider
 
-2) Search and Validation
+* 2) Search and Validation
 + Login
 + Search Developer
 + Validate Developer
 
 
-3) Integrating Jenkins
+* 3) Integrating Jenkins
 + Validating Developer using TestNG.xml and running it using Jenkins
 
-4) TestNG Extent Report Generate
+* 4) TestNG Extent Report Generate
 
 
 
