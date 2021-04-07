@@ -27,13 +27,13 @@ public class login_hackerearth_excel {
 
         driver.manage().window().maximize();
 
-        WebElement login = driver.findElement(By.cssSelector("#__next > div > div > div.header_2_OMF > div > div.buttons_1nn8B > div:nth-child(1) > span"));
+        WebElement login = driver.findElement(By.cssSelector("#__next > div > div > div.header > div > div.buttons > div:nth-child(1)"));
         login.click();
         WebElement email= driver.findElement(By.name("username"));
         email.sendKeys(username);
         WebElement password= driver.findElement(By.name("password"));
         password.sendKeys(pw);
-        WebElement log= driver.findElement(By.className("submitButton_uHU80"));
+        WebElement log= driver.findElement(By.className("submitButton"));
         log.click();
         System.out.println("login Successful");
 
