@@ -2,7 +2,7 @@
 
 ## We have tested [HackerEath](https://www.hackerearth.com/) in 4 modules:
 
-1)Login And SignIn
+1) Login And SignIn
 + Using Excel Sheet
 + Login using different browsers namely: Chrome, Microsoft Edge and Firefox
 + Using Data provider
