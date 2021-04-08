@@ -92,8 +92,6 @@ public class hackerearth_validation {
        assertNotNull(check);
        System.out.println("Username is not null !");
 
-
-
     }
 
     @Test(priority=7)
