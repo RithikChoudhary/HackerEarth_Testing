@@ -20,7 +20,6 @@ public class hackerearth_dataProvider_login{
         driver.get("https://www.hackerearth.com");
         driver.manage().deleteAllCookies();
     }
-
     @Test(dataProviderClass=data_provider3.class, dataProvider="signin")
     public void Signup(String fname, String lname,String email,String passw)
     {
