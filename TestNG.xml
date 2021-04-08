@@ -4,6 +4,7 @@
   <test name="lab2">
     <classes>
       <class name="hackerearth_validation"/>
+       <class name="hackerearth_dataProvider_login"></class>
     </classes>
   </test> <!-- lab2 -->
 </suite> <!-- Default Suite -->
